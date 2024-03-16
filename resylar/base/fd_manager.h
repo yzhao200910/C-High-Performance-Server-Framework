@@ -4,6 +4,7 @@
 #include <vector>
 #include "MutexLock.h"
 #include "Thread.h"
+#include "Singleton.h"
 
 namespace myconcurrent {
 
@@ -130,6 +131,6 @@ private:
 };
 
 //* 文件句柄单例
-
+typedef Singleton<FdManager> FdMgr;
 
 }

@@ -11,11 +11,11 @@
 
 namespace sylar {
     /**
-     * @brief 当前线程是否hook
+     * * 当前线程是否hook
      */
     bool is_hook_enable();
     /**
-     * @brief 设置当前线程的hook状态
+     * *设置当前线程的hook状态
      */
     void set_hook_enable(bool flag);
 }

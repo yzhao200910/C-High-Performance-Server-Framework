@@ -3,6 +3,25 @@
         "stdexcept": "cpp",
         "*.tcc": "cpp",
         "cstdlib": "cpp",
-        "mutex": "cpp"
+        "mutex": "cpp",
+        "complex": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "memory_resource": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "numeric": "cpp",
+        "cmath": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "type_traits": "cpp"
     }
 }
